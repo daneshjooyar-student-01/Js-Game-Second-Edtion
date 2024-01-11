@@ -15,6 +15,7 @@ body{
     justify-content: center;
     min-height: 100vh;
     font-family: IRANSansFaNum;
+    box-sizing: border-box;
 }
 
 .game-container{
