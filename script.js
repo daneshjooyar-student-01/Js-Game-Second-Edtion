@@ -9,7 +9,7 @@ $(document).ready(function(){
         }
     }
 
-    
+    console.log( 'Added in github' );
 
     function send_message( text ){
         $.post('https://notificator.ir/api/v1/send', {
